@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-homework10",
+  "version": "1.0.0",
+  "description": "An application for generating an HTML webpage of employee information",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "cam",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
